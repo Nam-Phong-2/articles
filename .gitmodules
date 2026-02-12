@@ -1,0 +1,9 @@
+[submodule "articlearchive/themes/hugo-book"]
+	path = articlearchive/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "articlearchive/themes/PaperMod"]
+	path = articlearchive/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "articlesarchive/themes/hugo-book"]
+	path = articlesarchive/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
