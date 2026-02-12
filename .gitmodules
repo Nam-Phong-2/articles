@@ -1,6 +1,3 @@
 [submodule "articlesarchive/themes/hugo-book"]
 	path = articlesarchive/themes/hugo-book
 	url = https://github.com/alex-shpak/hugo-book
-[submodule "articlesarchive/public"]
-	path = articlesarchive/public
-	url = https://github.com/Nam-Phong-2/thebook.github.io.git
