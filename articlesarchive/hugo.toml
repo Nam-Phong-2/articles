@@ -1,8 +1,11 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://nam-phong-2.github.io/articles/'
 languageCode = 'en-us'
 title = 'The book'
 theme="hugo-book"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
